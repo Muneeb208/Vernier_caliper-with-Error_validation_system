@@ -1,0 +1,41 @@
+# Unity generated folders — never commit these
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# macOS junk
+.DS_Store
+*.DS_Store
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+ExportedObj/
+
+# Unity auto-generated
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+
+# Build outputs
+*.apk
+*.aab
+*.app
+
+# Unity packages (export separately, don't commit binaries)
+*.unitypackage
+*.unitypackage.meta
+unity_compile_log.log
